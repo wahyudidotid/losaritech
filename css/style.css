@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,600;0,700;1,400&family=Raleway:wght@800&display=swap');
+
+body {
+    font-family: 'poppins''arial';
+}
+
+#menu-button {
+    color: black;
+    border-radius: 25px;
+    border-color: black;
+    background-color: white;
+
+}
+
+h1 {
+    padding-top: 100px;
+    font-family: poppins;
+    font-weight: 800;
+    font-size: 50px;
+    text-align: center;
+    color: #2c2c54;
+}
+
+p {
+    font-family: poppins;
+    font-weight: 300;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+
+}
+
+.paddingbottom {
+    padding-bottom: 200px;
+}
+
+#konsulwa {
+    border-radius: 25px;
+    background-color: transparent;
+    color: black;
+    border-color: black;
+}
+
+#fiturimg {
+    width: 130px;
+}
+
+#fiturtext {
+    font-family: poppins;
+    font-weight: 600;
+    color: #2c2c54;
+}
+
+#fiturp {
+    font-weight: 300;
+    font-size: 15px;
+    color: #2c2c54;
+
+}
+
+#img-clients {
+    width: 200px;
+}
+
+.klienkami {
+    padding-top: 80px;
+    font-weight: 800;
+    color: #2c2c54;
+}
+
+.paddingfooter {
+    padding-top: 50px;
+}
+
+#footer {
+    font-size: small;
+    font-family: raleway;
+    color: white;
+    font-weight: 800;
+    background-color: #242430;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+#footer #footerp {
+    font-family: poppins;
+    font-size: 15px;
+    color: white;
+}
+
+#btntop {
+    color: #2c2c54;
+    font-size: 70px;
+    margin-left: 90%;
+    margin-bottom: 50px;
+}
+
+#infofooter {
+    margin-top: 120px;
+    font-family: poppins;
+    font-weight: 600;
+}
+
+#infofooterp {
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    #btntop {
+        margin-left: 80%;
+    }
+
+}
